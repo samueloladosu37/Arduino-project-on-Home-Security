@@ -20,4 +20,4 @@ the same password sequence can also be used to disable the alarm. When the alarm
 the alarm ed turns on and vice versa. Moreso, There is also a 16 x 02 LCD display which displays the current 
 temperature and humidity level so the real time measurement can be monitored. The software serial monitor was 
 initialized to displays some status like the door status, 
-light statuses, flame status, motion status and the current bit status of the four buttons.
+light statuses, flame status, motion status and the current bit status of the four buttons. Version 3 is the working code of the project. Version 1 is the working code of the sensor, version 2 is the working version of the passwordcounter implemented while version 3 integrates the sensor functionality and the pasword.
